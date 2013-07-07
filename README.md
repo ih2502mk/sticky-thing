@@ -1,0 +1,1 @@
+An Attempt to create sticky header that will work on mobile devices with touch events.
